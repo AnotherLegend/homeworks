@@ -1,0 +1,32 @@
+h3 {
+    font-size: 20px; 
+}
+h2 {
+    text-align: center;
+    color: rgb(255, 0, 191); 
+}
+.text-big {
+    text-decoration: underline;
+}
+.text {
+    font-weight: bolder;
+}
+body {
+    background-image:url(https://warhead.su/system/images/000/130/880/content/4985975574d7c0e32895f55575d0665dc1543c7f.jpg?1544508416);
+    background-attachment: fixed;
+    color: rgb(0, 217, 255);
+    background-size: cover;
+    font-size: 25px;
+}
+.cursive {
+    font-style: italic;
+}
+.emphasize {
+    text-decoration: underline; 
+}
+.cross-out {
+    text-decoration:line-through;
+}
+a {
+    color: rgb(221, 253, 76);
+}
