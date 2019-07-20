@@ -1,32 +1,84 @@
 h3 {
-    font-size: 20px; 
+    font-size: 20px;
 }
+
 h2 {
     text-align: center;
-    color: rgb(255, 0, 191); 
+    color: rgb(238, 255, 0);
 }
+
 .text-big {
     text-decoration: underline;
 }
+
 .text {
     font-weight: bolder;
+    color: rgb(0, 255, 136);
 }
+
 body {
-    background-image:url(https://warhead.su/system/images/000/130/880/content/4985975574d7c0e32895f55575d0665dc1543c7f.jpg?1544508416);
+    background-image: url(https://www.euromag.ru/storage/c/2015/08/14/1439549450_996767_90.jpg);
     background-attachment: fixed;
-    color: rgb(0, 217, 255);
+    color: rgb(229, 255, 0);
     background-size: cover;
     font-size: 25px;
 }
+
 .cursive {
     font-style: italic;
 }
+
 .emphasize {
-    text-decoration: underline; 
+    text-decoration: underline;
 }
+
 .cross-out {
-    text-decoration:line-through;
+    text-decoration: line-through;
 }
+
+div {
+    border: 2px dashed  rgb(37, 175, 101);
+    margin: 5% 15% 5% 15%;
+}
+
+.content {
+    background-color: rgba(0, 76, 255, 0.2)
+}
+
+/* .content {
+    position: fixed;
+    top: 5%;
+    left: 70%;
+    color: rgb(255, 0, 136);
+    padding-top: 5px;
+    padding-right: 5px;
+    border: 3px double rgb(51, 255, 0);
+    padding: 30px;
+} */
+
 a {
-    color: rgb(221, 253, 76);
+    color: rgb(82, 249, 255);
+}
+
+.prologue {
+    background-color: rgba(255, 0, 43, 0.2)
+}
+
+.Chapter1 {
+    background-color: rgba(132, 0, 255, 0.2)
+}
+
+.Chapter2 {
+    background-color: rgba(0, 234, 255, 0.2)
+}
+.Chapter3 {
+    background-color: rgba(0, 255, 34, 0.2)
+}
+
+.Chapter4 {
+    background-color: rgba(251, 255, 0, 0.2)
+}
+
+.Chapter5 {
+    background-color: rgba(255, 0, 0, 0.2)
 }
